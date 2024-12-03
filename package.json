@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.95.5",
+    "axios": "^1.7.8",
+    "bs58": "^6.0.0",
+    "ts-node": "^10.9.2",
+    "tweetnacl": "^1.0.3",
+    "typescript": "^5.7.2"
+  }
+}
